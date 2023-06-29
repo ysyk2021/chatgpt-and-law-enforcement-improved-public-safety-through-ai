@@ -3,13 +3,6 @@ How AI and chatbots can improve law enforcement
 
 In this chapter, we will discuss the role of AI and chatbots in law enforcement and how they can improve public safety. We will explore the potential benefits of using AI and chatbots in law enforcement, as well as some of the challenges and limitations associated with their use.
 
-What is AI and Chatbots?
-------------------------
-
-AI, or artificial intelligence, refers to the development of computer systems that can perform tasks that would typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
-
-Chatbots are a type of AI that are designed to simulate conversation with human users through natural language processing. They can be used to provide real-time assistance and support in a variety of contexts, including customer service, healthcare, and law enforcement.
-
 How can AI and Chatbots Improve Law Enforcement?
 ------------------------------------------------
 
