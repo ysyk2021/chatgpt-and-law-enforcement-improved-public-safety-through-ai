@@ -1,5 +1,3 @@
-Explanation of the Importance of Public Safety
-============================================================
 
 Public safety is a critical element of a healthy and thriving society. It refers to the measures taken to protect individuals from harm, prevent criminal activity, and ensure that communities are safe and secure.
 

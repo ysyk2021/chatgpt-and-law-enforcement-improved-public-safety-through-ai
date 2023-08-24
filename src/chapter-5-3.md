@@ -1,5 +1,3 @@
-How ChatGPT can be used for improving law enforcement
-=======================================================================================
 
 ChatGPT, an AI-powered chatbot system, has the potential to revolutionize how law enforcement agencies communicate with the public and carry out their duties. In this chapter, we will delve into the specifics of ChatGPT and explore its potential applications for improving law enforcement.
 

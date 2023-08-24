@@ -1,5 +1,3 @@
-How AI and chatbots can improve law enforcement
-==========================================================================================================
 
 In this chapter, we will discuss the role of AI and chatbots in law enforcement and how they can improve public safety. We will explore the potential benefits of using AI and chatbots in law enforcement, as well as some of the challenges and limitations associated with their use.
 

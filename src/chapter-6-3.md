@@ -1,5 +1,3 @@
-Case Studies of Law Enforcement Agencies that Have Successfully Implemented ChatGPT for Public Safety
-=========================================================================================================================================================
 
 In this chapter, we will explore case studies of law enforcement agencies that have successfully implemented ChatGPT to improve public safety outcomes.
 

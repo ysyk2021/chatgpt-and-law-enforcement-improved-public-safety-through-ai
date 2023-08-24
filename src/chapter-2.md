@@ -1,5 +1,3 @@
-Chapter 1: Basics of Law Enforcement
-====================================
 
 In this chapter, we will discuss the basics of law enforcement. We will define law enforcement and explore the different types of agencies that make up the system. Finally, we will discuss the importance of law enforcement for public safety.
 

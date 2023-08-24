@@ -1,5 +1,3 @@
-Importance of law enforcement for public safety
-=====================================================================================
 
 In this chapter, we will discuss the basics of law enforcement and the importance of law enforcement for public safety. We will explore the role of law enforcement agencies in maintaining public safety and how their work impacts communities.
 

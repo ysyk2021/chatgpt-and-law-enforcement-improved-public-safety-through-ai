@@ -1,5 +1,3 @@
-Common challenges faced by law enforcement agencies
-=============================================================================================
 
 In this chapter, we will discuss some of the common challenges faced by law enforcement agencies. We will explore how these challenges can impact the ability of law enforcement agencies to protect and serve their communities.
 

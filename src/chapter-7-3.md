@@ -1,5 +1,3 @@
-Conclusion and future outlook
-================================================================================
 
 In this book, we have explored the use of ChatGPT in law enforcement and how it can improve public safety through AI. We have discussed the potential benefits and challenges associated with implementing ChatGPT in law enforcement, as well as some case studies demonstrating its successful use.
 

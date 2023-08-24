@@ -1,5 +1,3 @@
-Factors affecting law enforcement
-===========================================================================
 
 In this chapter, we will explore some of the factors that can affect law enforcement and contribute to the challenges faced by these agencies. We will discuss how these factors can impact the ability of law enforcement agencies to protect and serve their communities.
 

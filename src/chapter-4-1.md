@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-==========================================================================================
 
 In this chapter, we will introduce the concept of AI and chatbots and explore their potential role in law enforcement. We will provide an overview of what AI and chatbots are and how they can be applied in law enforcement settings.
 

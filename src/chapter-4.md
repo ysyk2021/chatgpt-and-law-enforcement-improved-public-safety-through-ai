@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Law Enforcement
-=========================================================
 
 In this chapter, we will discuss the role of AI and chatbots in law enforcement and how they can improve public safety. We will introduce AI and chatbots, explore their potential applications in law enforcement, and discuss some of the benefits of using these technologies in this context.
 

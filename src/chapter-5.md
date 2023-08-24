@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore the concept of ChatGPT and its potential applications in law enforcement. We will discuss what ChatGPT is, its features and capabilities, and how it can be used to improve public safety through AI.
 

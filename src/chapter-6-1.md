@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Law Enforcement
-=================================================================================================
 
 Implementing ChatGPT in law enforcement requires a thoughtful and strategic approach. In this chapter, we will discuss the steps that law enforcement agencies can take to effectively implement ChatGPT.
 

@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Law Enforcement
-========================================
 
 In this chapter, we will explore the challenges faced by law enforcement agencies. We will discuss some of the factors that can affect law enforcement, common challenges faced by these agencies, and how these challenges impact public safety.
 

@@ -1,5 +1,3 @@
-Benefits of using AI and chatbots for law enforcement
-================================================================================================================
 
 In this chapter, we will discuss some of the potential benefits of using AI and chatbots in law enforcement. We will explore how AI and chatbots can improve public safety and enhance the effectiveness of law enforcement agencies.
 

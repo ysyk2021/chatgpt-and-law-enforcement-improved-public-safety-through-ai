@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential benefits of using ChatGPT to improve public safety outcomes in law enforcement settings. From its natural language processing capabilities to its deep learning algorithms and open-ended conversation capabilities, ChatGPT represents a powerful tool for facilitating communication between law enforcement agencies and the public.
 

@@ -1,5 +1,3 @@
-Best Practices for Using ChatGPT in Improving Public Safety
-===============================================================================================================
 
 When implementing ChatGPT in law enforcement, it is essential to follow best practices to ensure that it is utilized effectively and responsibly. In this chapter, we will discuss some best practices for using ChatGPT to improve public safety.
 

@@ -1,4 +1,3 @@
-# Introduction
 
 Law enforcement and public safety are essential components of any functioning society. Effective law enforcement ensures that individuals can live safely and securely without fear of crime or violence, while public safety measures protect citizens from emergencies and disasters.
 

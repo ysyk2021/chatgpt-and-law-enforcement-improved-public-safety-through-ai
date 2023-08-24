@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 This book, "ChatGPT and Law Enforcement: Improved Public Safety through AI," explores the potential of artificial intelligence (AI), specifically ChatGPT, to enhance public safety and improve law enforcement efforts.
 

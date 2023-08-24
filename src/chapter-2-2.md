@@ -1,5 +1,3 @@
-Different Types of Law Enforcement Agencies
-=================================================================================
 
 Law enforcement agencies can be divided into several categories, each with its own unique responsibilities and jurisdictions. Some of the most common types of law enforcement agencies include:
 

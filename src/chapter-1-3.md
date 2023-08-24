@@ -1,5 +1,3 @@
-The Role of ChatGPT in Improving Law Enforcement
-==============================================================
 
 In recent years, advancements in artificial intelligence (AI) have led to significant improvements in many areas of society. One area that has seen notable progress is law enforcement. AI technologies, such as ChatGPT, have the potential to revolutionize how law enforcement agencies carry out their duties and enhance public safety.
 

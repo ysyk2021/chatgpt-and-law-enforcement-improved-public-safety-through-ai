@@ -1,5 +1,3 @@
-Definition of Law Enforcement
-===================================================================
 
 Law enforcement refers to the system by which society enforces laws and maintains public order. It is a crucial component of any functioning society, as it ensures that individuals can live safely and securely without fear of crime or violence.
 

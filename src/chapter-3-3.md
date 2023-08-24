@@ -1,5 +1,3 @@
-Impact of these challenges on public safety
-=====================================================================================
 
 In this chapter, we will explore some of the key challenges facing law enforcement and their impact on public safety. We will discuss some of the most pressing issues facing law enforcement agencies today and how they can affect the ability of these agencies to protect and serve their communities.
 
