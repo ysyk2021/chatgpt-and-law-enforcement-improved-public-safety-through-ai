@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Improving Law Enforcement
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential applications of ChatGPT in law enforcement and how this technology can contribute to improving various aspects of law enforcement practices.
 

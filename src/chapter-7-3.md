@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we summarize the key findings and insights from the book "ChatGPT and Law Enforcement: Improved Public Safety through AI" and discuss the future outlook for the integration of ChatGPT in law enforcement practices.
 

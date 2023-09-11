@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Law Enforcement and ChatGPT
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends and challenges that arise with the integration of ChatGPT technology in law enforcement. As AI continues to evolve, it presents new opportunities and complexities for law enforcement agencies striving to enhance public safety.
 

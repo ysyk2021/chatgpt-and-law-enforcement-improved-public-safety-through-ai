@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Public Safety
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the potential impact that the challenges associated with the integration of ChatGPT in law enforcement can have on public safety. While ChatGPT holds great promise for improving law enforcement practices, it is crucial to understand and mitigate the challenges to ensure its responsible and effective use.
 

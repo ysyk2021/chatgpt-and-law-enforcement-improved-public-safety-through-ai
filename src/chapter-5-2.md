@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various features and capabilities of ChatGPT that make it a powerful tool for improving public safety through AI in law enforcement.
 

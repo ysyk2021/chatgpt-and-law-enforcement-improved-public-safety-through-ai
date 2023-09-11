@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of ChatGPT and delve into its composition, functionality, and underlying technology. Understanding what ChatGPT is lays the foundation for exploring its potential in improving public safety through AI in law enforcement.
 

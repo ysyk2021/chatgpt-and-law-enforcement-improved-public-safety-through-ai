@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Law Enforcement Agencies
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the common challenges that law enforcement agencies encounter when integrating ChatGPT and AI technologies to improve public safety. Understanding these challenges is crucial for developing effective strategies and solutions to maximize the potential of ChatGPT in law enforcement practices.
 

@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in Law Enforcement with ChatGPT
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that can be achieved in law enforcement through the integration of ChatGPT technology. These advancements have the potential to revolutionize various aspects of law enforcement practices and contribute to improving public safety.
 

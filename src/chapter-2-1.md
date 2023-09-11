@@ -1,5 +1,4 @@
-Chapter: Definition of Law Enforcement
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Law enforcement encompasses the activities, systems, and organizations responsible for upholding and enforcing laws within a society. It involves maintaining public order, preventing and deterring crime, and ensuring the safety and security of individuals and communities. Law enforcement agencies are essential components of a functioning legal system and play a crucial role in maintaining social stability.
 

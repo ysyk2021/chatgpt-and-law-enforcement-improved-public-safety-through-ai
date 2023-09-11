@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in Law Enforcement
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps involved in implementing ChatGPT and AI technologies in law enforcement to improve public safety. These steps provide a framework for a systematic and effective integration of chatbot technology into law enforcement agencies' operations.
 
